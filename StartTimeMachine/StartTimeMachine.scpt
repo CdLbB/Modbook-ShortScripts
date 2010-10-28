@@ -1,0 +1,1 @@
+do shell script "/System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper &"
