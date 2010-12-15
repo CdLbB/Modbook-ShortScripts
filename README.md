@@ -8,7 +8,7 @@ Since the Modbook has no eject button, two AppleScripts: One "Eject" to eject an
 
 HideShowDesktop
 ---------------
-An AppleScript that allows you to temporarily sweep all clutter off your Desktop. The Script hides all the icons on your Desktop, while still allowing you access to those items in the Finder. Run the script again an your Desktop icon reappear. Based on a script from [Mac OS X Hints][DesktopService].
+An AppleScript that allows you to temporarily sweep all clutter off your Desktop. The Script hides all the icons on your Desktop, while still allowing you access to those items in the Finder. Run the script again and your Desktop icons reappear. Based on a script from [Mac OS X Hints][DesktopService].
 
 [DesktopService]: http://hints.macworld.com/article.php?story=20100804092806364
 
